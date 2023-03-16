@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lkc-zgzo70 ===
+
+API key:
+X7CQIBGF4G7MTFQ6
+
+API secret:
+CZHjVDHQus7ZegvfT3LV3hCU60SX/tV+gUfhDPm+P9UFYEyVyGfSHgynsTBvO3+h
+
+Bootstrap server:
+pkc-e0zxq.eu-west-3.aws.confluent.cloud:9092
